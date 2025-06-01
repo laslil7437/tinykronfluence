@@ -1,3 +1,5 @@
+Adaptation of the Kronfluence code. 
+
 <p align="center">
 <a href="#"><img width="380" img src="https://raw.githubusercontent.com/pomonam/kronfluence/main/.assets/kronfluence.svg" alt="Kronfluence"/></a>
 </p>
