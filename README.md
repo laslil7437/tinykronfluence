@@ -1,4 +1,4 @@
-Adaptation of the Kronfluence code. 
+Adaptation of the Kronfluence code, whose README.md is shown below.
 
 <p align="center">
 <a href="#"><img width="380" img src="https://raw.githubusercontent.com/pomonam/kronfluence/main/.assets/kronfluence.svg" alt="Kronfluence"/></a>
